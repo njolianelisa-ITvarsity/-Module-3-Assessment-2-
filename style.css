@@ -42,6 +42,14 @@ body{
     
 }
 
+#home-logo-img{
+    width: 50px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+    
+}
+
 /*=======HOME PAGE MENU======*/
 .home-menu-item{
     text-decoration: none;
